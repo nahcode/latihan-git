@@ -1,4 +1,13 @@
-daftar dari branch:
-1. text 1
-2. text 2
-3. text 3
+Rencana Konten Baru
+
+- JS
+  -ES6
+  -framework JS
+    vue
+    react
+- struktur data dasar
+- php frameworks
+  - laravel
+- interview
+- vlog
+- python
