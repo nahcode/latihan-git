@@ -3,8 +3,9 @@ Rencana Konten Baru
 - JS
   -ES6
   -framework JS
-    angular
+    vue
     react
+- struktur data dasar
 - php frameworks
   - laravel
 - interview
