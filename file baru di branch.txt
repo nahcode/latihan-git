@@ -4,6 +4,7 @@ Rencana Konten Baru
   -ES6
   -framework JS
     vue
+    react
 - struktur data dasar
 - php frameworks
   - laravel
